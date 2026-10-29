@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "juego", "url": "http://127.0.0.1:8000", "port": 8000 }
+  ]
+}
